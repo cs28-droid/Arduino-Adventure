@@ -16,18 +16,18 @@ the arduino and the other sensors.
   You can update the pins according to your choice while interfacing the sensors.
   
 -> The sensors, motors, drivers, displays and other components interfaced in these projects are:
-    - Accelerometer ADXL345
-    - Servo motor SG90
-    - LCD 16x2
-    - OLED
-    - Ultrasonic sensor HC-SR04
-    - RFID reader/writer RC522
-    - Gas sensors MQ2, MQ9 and MQ135
-    - DC geared motors 12V 150rpm
-    - LEDs
-    - Push buttons
-    - Sound sensor RKI-3103
-    - PIR motion sensor HC-SR501
-    - DHT11 temperature-humidity sensor
-    - L293D and L298N motor drivers
-    - 100k potentiometers
+1. Accelerometer ADXL345
+2. Servo motor SG90
+3. LCD 16x2
+4. OLED
+5. Ultrasonic sensor HC-SR04
+6. RFID reader/writer RC522
+7. Gas sensors MQ2, MQ9 and MQ135
+8. DC geared motors 12V 150rpm
+9. LEDs
+10. Push buttons
+11. Sound sensor RKI-3103
+12. PIR motion sensor HC-SR501
+13. DHT11 temperature-humidity sensor
+14. L293D and L298N motor drivers
+15. 100k potentiometers
